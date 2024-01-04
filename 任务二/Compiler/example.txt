@@ -1,0 +1,6 @@
+PROGRAM add
+VAR x,y;
+BEGIN
+x:=1
+y:=y+x
+END

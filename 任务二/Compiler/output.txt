@@ -1,0 +1,4 @@
+START
+100  x := 1
+STOP
+

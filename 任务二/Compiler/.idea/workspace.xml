@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf3c3203-5162-4fc4-b58a-f6ee92672b7f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ZID2Wzzl3RI4MZRJXjkSuD5CWM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CodeCPy/JavaProjects/nutrition-prediction-expert&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodeCPy\JavaProjects\Compiler" />
+      <recent name="D:\CodeCPy\JavaProjects\Compiler\src\antlr\Calculator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CodeCPy\JavaProjects\Compiler\src\antlr" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf3c3203-5162-4fc4-b58a-f6ee92672b7f" name="Changes" comment="" />
+      <created>1702100494716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702100494716</updated>
+      <workItem from="1702100495724" duration="2551000" />
+      <workItem from="1702103083654" duration="641000" />
+      <workItem from="1702103740839" duration="10403000" />
+      <workItem from="1702117514266" duration="1027000" />
+      <workItem from="1702118559980" duration="11603000" />
+      <workItem from="1702173019623" duration="5692000" />
+      <workItem from="1702190455897" duration="3126000" />
+      <workItem from="1702437376562" duration="2130000" />
+      <workItem from="1702524606552" duration="2470000" />
+      <workItem from="1702531769422" duration="4432000" />
+      <workItem from="1702538406154" duration="1532000" />
+      <workItem from="1702806585351" duration="3000" />
+      <workItem from="1703138566745" duration="67000" />
+      <workItem from="1703734212373" duration="1870000" />
+      <workItem from="1703743629650" duration="1000" />
+      <workItem from="1703854452871" duration="1893000" />
+      <workItem from="1704116610381" duration="5689000" />
+      <workItem from="1704153813950" duration="1774000" />
+      <workItem from="1704335255998" duration="4176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+</project>
